@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "NeueMontreal"; /* Choose a unique name for your font */
+  src: url("/src/fonts/NeueMontreal-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; /* Optional: Controls how font is loaded and displayed */
+}
+@font-face {
+  font-family: "FoundersGrotesk"; /* Choose a unique name for your font */
+  src: url("/src/fonts/FoundersGrotesk-Semibold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; /* Optional: Controls how font is loaded and displayed */
+}
