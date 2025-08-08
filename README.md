@@ -1,5 +1,5 @@
 
-# Ochi UI Clone - My First React Project
+# Ochi UI Clone - React Project
 
 This project is a clone of the Ochi UI, developed as my first project using React. It showcases a modern, interactive, and visually appealing web interface, built to practice and solidify core React concepts.
 
