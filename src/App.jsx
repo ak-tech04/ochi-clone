@@ -8,11 +8,15 @@ import AboutUs from "./components/AboutUs";
 import Eyes from "./components/Eyes";
 import Featured from "./components/Featured";
 import Footer from "./components/Footer";
+import LocomotiveScroll from 'locomotive-scroll';
 
 function App() {
+
+const locomotiveScroll = new LocomotiveScroll();
+
   return (
-    <>
-      <div className="w-full min-h-screen text-white font-['NeueMontreal'] text-xl bg-zinc-800">
+  
+  <div className="w-full min-h-screen text-white font-['NeueMontreal'] text-xl bg-zinc-800 overflow-hidden">
         <Navbar />
         <HeroPage />
         <Marquee />
@@ -21,7 +25,6 @@ function App() {
         <Featured/>
         <Footer></Footer>
       </div>
-    </>
   );
 }
 

@@ -16,7 +16,7 @@ function Eyes() {
   });
 
   return (
-    <div className="h-screen bg-[url(/src/assets/top-bg.jpg)] bg-center bg-cover flex items-center justify-center">
+    <div  className="h-[130vh] bg-[url(/src/assets/top-bg.jpg)] bg-center bg-cover flex items-center justify-center">
       <div className="flex items-center justify-center bg-amber-50 h-[15vw] w-[15vw] rounded-[100%] ">
         
         <div className="flex items-center relative h-[60%] w-[60%] bg-zinc-900 rounded-[100%]">

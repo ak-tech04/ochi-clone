@@ -3,7 +3,7 @@ import Button from "./Button";
 
 function AboutUs() {
   return (
-    <div className="w-full text-black py-20 bg-[#CDEA68] rounded-t-3xl ">
+    <div data-scroll data-scroll-speed='-.3' className="w-full text-black py-20 bg-[#CDEA68] rounded-t-3xl ">
       <div className="text-7xl px-20 pb-20">
         Ochi is a strategic presentation agency for forward-thinking businesses
         that need to&nbsp;

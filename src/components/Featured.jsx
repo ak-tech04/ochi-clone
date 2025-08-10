@@ -3,7 +3,7 @@ import FeaturedProject from "./FeaturedProject";
 
 function Featured() {
   return (
-    <div>
+    <div data-scroll data-scroll-speed='.4'>
       <h2 className="text-[3vw] pt-20 pb-10 px-20 border-b-[1px] border-zinc-600">
         Featured projects
       </h2>

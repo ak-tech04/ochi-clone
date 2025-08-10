@@ -2,8 +2,8 @@ import React from "react";
 
 function Footer() {
   return (
-    <div>
-      <div className="min-h-screen px-20 py-20 flex">
+    <div data-scroll data-scroll-speed='-.2'>
+      <div  className="min-h-screen px-20 py-20 flex">
         <div className="w-1/2 text-[8vw] uppercase font-[FoundersGrotesk] leading-[6vw] relative ">
           <h1>eye-</h1>
           <h1>opening</h1>
