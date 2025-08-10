@@ -1,8 +1,7 @@
 import React from "react";
 import { GoDotFill } from "react-icons/go";
 
-function FeaturedProject({ imgURL, title, tags }) {
-  console.log(tags);
+function FeaturedProject({ imgURL ='null', title='unknown', tags=['no tags'] }) {
   let myTagArray = tags;
   return (
     <div className="h-[80vh] w-1/2 rounded-4xl box-border grow shrink-0 basis-[45%] flex flex-col mt-10">

@@ -7,6 +7,7 @@ import Marquee from "./components/Marquee";
 import AboutUs from "./components/AboutUs";
 import Eyes from "./components/Eyes";
 import Featured from "./components/Featured";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <AboutUs></AboutUs>
         <Eyes></Eyes>
         <Featured/>
+        <Footer></Footer>
       </div>
     </>
   );
