@@ -6,6 +6,8 @@ import Navbar from "./components/Navbar";
 import Marquee from "./components/Marquee";
 import AboutUs from "./components/AboutUs";
 import Eyes from "./components/Eyes";
+import Featured from "./components/Featured";
+
 function App() {
   return (
     <>
@@ -15,6 +17,7 @@ function App() {
         <Marquee />
         <AboutUs></AboutUs>
         <Eyes></Eyes>
+        <Featured/>
       </div>
     </>
   );
