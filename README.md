@@ -87,6 +87,33 @@ This project is licensed under the MIT License.
 
 ## Demo
 
+![ochi-demo](https://github.com/user-attachments/assets/f64da2a8-b83e-40a0-b8e8-3902d15ddbd2)
+
+## Screenshots 
+
+<img width="1920" height="961" alt="image" src="https://github.com/user-attachments/assets/6af9179c-5405-4e08-a32b-8fcdb462a2ab" />
+
+
+
+
+
+<img width="1920" height="961" alt="image" src="https://github.com/user-attachments/assets/965e3a53-702c-46af-985e-701d3c04a345" />
+
+
+<img width="1920" height="961" alt="image" src="https://github.com/user-attachments/assets/91ef2d4c-e2c8-4075-a064-2cf773735863" />
+
+<img width="1920" height="961" alt="image" src="https://github.com/user-attachments/assets/33bcbf2d-9de4-455e-8869-85da3b4a7b0f" />
+
+<img width="1920" height="961" alt="image" src="https://github.com/user-attachments/assets/f685de21-b96f-4579-8bf9-274ed3b2f044" />
+
+<img width="1920" height="961" alt="image" src="https://github.com/user-attachments/assets/a08520c8-e70d-40f0-90b7-0a1b3837bb0a" />
+
+<img width="1920" height="961" alt="image" src="https://github.com/user-attachments/assets/9e3c99a3-b810-4a1a-b8a0-f21b6ecef1be" />
+<img width="1920" height="961" alt="image" src="https://github.com/user-attachments/assets/76b006af-597d-4ab4-baa0-b349525ea0ec" />
+
+
+## Demo video link
+
 https://github.com/ak-tech04/ochi-clone/blob/main/public/ochi-demo.webm
 
-https://github.com/ak-tech04/ochi-clone/blob/main/public/ochi-demo.gif
+
