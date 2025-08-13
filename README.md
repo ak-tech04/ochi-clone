@@ -83,3 +83,10 @@ This project was an opportunity to learn and reinforce several key web developme
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+
+## Demo
+
+https://github.com/ak-tech04/ochi-clone/blob/main/public/ochi-demo.webm
+
+https://github.com/ak-tech04/ochi-clone/blob/main/public/ochi-demo.gif
